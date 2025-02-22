@@ -1,4 +1,4 @@
-# Hi, I'm Aarab 😀
+# Hi, I'm Aarab 
 
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, HTML & CSS.My interests are in novels,video games and computers.
